@@ -12,8 +12,8 @@ language: en
 timezone: ''
 
 # URL
-## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+# Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+url: https://remembermistakeGM.github.io/blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,6 +103,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/remembermistakeGM/remembermistakeGM.github.io #你的仓库地址
+  repository: https://github.com/remembermistakeGM/remembermistakeGM.github.io #https://github.com/remembermistakeGM/remembermistakeGM.github.io #你的仓库地址
   branch: master 
  
